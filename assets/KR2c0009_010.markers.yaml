@@ -233,6 +233,7 @@ markers:
   - {type: line-break, offset: 569, content: '', id: KR2c0009_WYG_010-3b01}
   - {type: indent, offset: 569, content: 　　　, id: KR2c0009_krp_010-bkkind34}
   - {type: punctuation, offset: 578, content: (, id: KR2c0009_krp_010-bkkpn1}
+  - {type: voice, offset: 578, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 579, content: /, id: KR2c0009_krp_010-bkkpn2}
   - {type: punctuation, offset: 579, content: ), id: KR2c0009_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 587, content: '
@@ -887,6 +888,7 @@ markers:
   - {type: line-break, offset: 2333, content: '', id: KR2c0009_WYG_010-10b01}
   - {type: indent, offset: 2333, content: 　　　　, id: KR2c0009_krp_010-bkkind121}
   - {type: punctuation, offset: 2333, content: (, id: KR2c0009_krp_010-bkkpn4}
+  - {type: voice, offset: 2333, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2334, content: /, id: KR2c0009_krp_010-bkkpn5}
   - {type: punctuation, offset: 2334, content: ), id: KR2c0009_krp_010-bkkpn6}
   - {type: 'kr:newline', offset: 2350, content: '
@@ -1044,6 +1046,7 @@ markers:
   - {type: line-break, offset: 2777, content: '', id: KR2c0009_WYG_010-12a04}
   - {type: indent, offset: 2777, content: 　　　　, id: KR2c0009_krp_010-bkkind144}
   - {type: punctuation, offset: 2777, content: (, id: KR2c0009_krp_010-bkkpn7}
+  - {type: voice, offset: 2777, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2778, content: /, id: KR2c0009_krp_010-bkkpn8}
   - {type: punctuation, offset: 2778, content: ), id: KR2c0009_krp_010-bkkpn9}
   - {type: substitution, offset: 2789, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
@@ -1480,4 +1483,4 @@ markers:
 
       ', id: KR2c0009_krp_010-bkkkrnewl288}
   back: []
-hash: sha256:3d140de404cdf8261db5930c186d23bebb3196c4ed96296a3f840fdfee971979
+hash: sha256:8e4e99c53a53231a2a47e11d50c6bfff7810002447972f6c07cb5cf65eaebc98
